@@ -31,7 +31,7 @@
 
 ![New Blog](https://pig-storage.b0.upaiyun.com/cover/2018/09/07/4b7ExtB6NHZVh8n5KnW2673Ej6gwtLm1SUAubtpa.jpg)
 
-## Install
+## Install/安装
 
 ### 1. Clone the source code or create new project.
 
@@ -45,7 +45,7 @@ OR
 composer create-project jcc/blog
 ```
 
-### 2. Set the basic config
+### 2. Set the basic config/设置基本配置
 
 ```shell
 cp .env.example .env
@@ -53,7 +53,7 @@ cp .env.example .env
 
 Edit the `.env` file and set the `database` and other config for the system after you copy the `.env`.example file.
 
-### 2. Install the extended package dependency.
+### 2. Install the extended package dependency./下载laravel框架包和Vue扩展包
 
 Install the `Laravel` extended repositories: 
 
@@ -67,7 +67,7 @@ Install the `Vuejs` extended repositories:
 npm install
 ```
 
-Compile the js code: 
+Compile the js code: /编译js代码
 
 ```shel
 npm run dev
@@ -81,7 +81,7 @@ npm run watch
 npm run production
 ```
 
-### 3. Run the blog install command, the command will run the `migrate` command and generate test data.
+### 3. Run the blog install command, the command will run the `migrate` command and generate test data./执行blog的安装命令
 
 ```shell
 php artisan blog:install
