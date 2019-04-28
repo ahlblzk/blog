@@ -1,6 +1,6 @@
 
 
-## Basic Features
+## Basic Features/基础功能
 
 - Manage users, articles, discussions and media
 - Statistical tables
@@ -15,7 +15,7 @@
 
 [PJ Blog](https://github.com/jcc/blog) Laravel 5.*
 
-## Server Requirements
+## Server Requirements/环境要求
 
 - PHP >= 7.1.0
 - Node >= 6.x
@@ -25,7 +25,7 @@
 - Tokenizer PHP Extension
 - XML PHP Extension
 
-## Preview
+## Preview/预览
 
 ![New Blog](https://pig-storage.b0.upaiyun.com/cover/2018/09/07/d2T4cAjTagf5L1rXH1FjLsFkJVffsPIGPkHEl2A5.jpg)
 
